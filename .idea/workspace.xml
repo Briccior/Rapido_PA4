@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48f03a3a-51eb-4eb4-ae13-23edf41e17eb" name="Default Changelist" comment="" />
+    <list default="true" id="a69ec23e-8427-4f8e-a106-6e0ed759db62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problem 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rapido_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming Assignment 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 1/out/production/Problem 1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1/out/production/Problem 1/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem 1/out/production/Problem 1/DuplicateRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problem 1/out/production/Problem 1/DuplicateRemover.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1T4sJnWZYpNkgrxtdPB07tExE7N" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1T59h7rpvZn7eRePYW5qY8AEfik" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -26,12 +52,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48f03a3a-51eb-4eb4-ae13-23edf41e17eb" name="Default Changelist" comment="" />
-      <created>1572730633382</created>
+      <changelist id="a69ec23e-8427-4f8e-a106-6e0ed759db62" name="Default Changelist" comment="" />
+      <created>1572739205115</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572730633382</updated>
+      <updated>1572739205115</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
